@@ -6,6 +6,3 @@ release
 deploy
 operate
 monitor
-ci cd
-cd ci
-
